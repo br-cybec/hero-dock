@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=HeroDock
+Comment=macOS-style dock for Linux
+Exec=herodock
+Icon=start-here
+Categories=Utility;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
